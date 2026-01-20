@@ -1,4 +1,4 @@
-*! JEB_Data.dta (used in Dilmaghani, 2020) is available at https://data.mendeley.com/datasets/9vmgdgtmh4/1 (DOI: 10.17632/9vmgdgtmh4.1).
+*! JEB_Data.dta (used in Dilmaghani, 2020) is available at https://data.mendeley.com/datasets/9vmgdgtmh4/1 (DOI: 10.17632/9vmgdgtmh4.1), licensed under CC BY-NC 3.0.
 
 set more off
 cd ""  // change directory in which JEB_Data.dta exists
