@@ -2,6 +2,19 @@
 
 `xtselfe` is available from [SSC](https://ideas.repec.org/c/boc/bocode/s459713.html) and can be installed in Stata by typing `ssc install xtselfe` in the Stata Command window.
 
+After installation, type `help xtselfe` to view the help file.
+
+
+### Example
+
+The example below uses `jeb_data_lat.dta`, which is provided in this repository. The data file can also be generated using the accompanying script `make_jeb_data_lat.do`.
+
+```stata
+. use https://raw.githubusercontent.com/gelee0729/xtselfe/main/jeb_data_lat.dta, clear
+. xtset idnumber year
+. xtselfe lnr lns c.age##c.age i.year, select(playrapid = lns c.age##c.age female)
+```
+
 
 ### References
 
