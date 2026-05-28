@@ -1,6 +1,6 @@
 ### Installation
 
-`xtselfe` is available from [SSC](https://ideas.repec.org/c/boc/bocode/s459713.html) and can be installed in Stata by typing `ssc install xtselfe` in the Stata Command window.
+`xtselfe` is available from [SSC](https://ideas.repec.org/c/boc/bocode/s459713.html). It can be installed in Stata 16 or later by typing `ssc install xtselfe` in the Stata Command window.
 
 After installation, type `help xtselfe` to view the help file.
 
