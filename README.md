@@ -2,7 +2,6 @@
 
 `xtselfe` is available from [SSC](https://ideas.repec.org/c/boc/bocode/s459713.html) and can be installed in Stata by typing `ssc install xtselfe` in the Stata Command window.
 
-<br>
 
 ### References
 
