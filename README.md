@@ -20,7 +20,7 @@ xtselfe lnr lns c.age##c.age i.year, select(playrapid = lns c.age##c.age female)
 
 For details on the Stata implementation of `xtselfe`, see:
 
-  1. Han, C. and G. Lee, 2026, Bias Correction for the Within-Group Estimator for Panel Data Sample-Selection Models, *The Stata Journal*, Forthcoming.&nbsp;&nbsp;[[Accepted author manuscript](https://drive.google.com/file/d/1Mim-5-jNMAnTD6HF1C-xKxJrV-9t_oJk/view?usp=sharing)]
+  1. Han, C. and G. Lee, 2026, Bias Correction for the Within-Group Estimator for Panel Data Sample-Selection Models, *The Stata Journal*, Forthcoming.&nbsp;&nbsp;[[Accepted author manuscript](https://ssrn.com/abstract=6791998)]
 
 For the original methodological contribution, see:
 
