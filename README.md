@@ -4,6 +4,8 @@
 
 After installation, type `help xtselfe` to view the help file.
 
+Current SSC version: `1.0.1` (28may2026).
+
 
 ### Example
 
